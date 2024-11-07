@@ -123,6 +123,7 @@ celerybeat.pid
 
 # Environments
 .env
+environement.env
 .venv
 env/
 venv/
@@ -139,6 +140,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/CHROMA_DB_PATH
+/ChromaDB_project
 
 # mypy
 .mypy_cache/
